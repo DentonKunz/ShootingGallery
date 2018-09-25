@@ -39,11 +39,27 @@
             }
         },
         {
+            "Key": "0faa179d-4cd4-4235-8414-d8413085fda2",
+            "Value": {
+                "id": "ba4b56ca-8c42-44fb-bf67-99a9b502cb69",
+                "resourcePath": "objects\\obj_hole\\obj_hole.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1608110c-f3f8-4bf5-9a36-92f29d4f437b",
             "Value": {
                 "id": "ba51d894-ae51-4be7-86ec-85a8771b94ba",
                 "resourcePath": "sprites\\spr_bg_wood\\spr_bg_wood.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "32dae715-c1c8-4c1a-9eee-60a89e3e9c27",
+            "Value": {
+                "id": "69e341cd-b0a4-4fa1-8d9f-2cc590c446d0",
+                "resourcePath": "objects\\obj_crosshair\\obj_crosshair.yy",
+                "resourceType": "GMObject"
             }
         },
         {
