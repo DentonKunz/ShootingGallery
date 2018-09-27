@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "d46637a6-a6c6-42bf-b592-230c992ac093",
+            "Value": {
+                "id": "3facea7a-9c86-443f-a5a8-be89d0c55fa8",
+                "resourcePath": "objects\\obj_duck\\obj_duck.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dd439956-147b-468f-8c16-e083ca51b77c",
             "Value": {
                 "id": "a1a1c1cf-3300-481e-aa39-974cdb099b3d",
