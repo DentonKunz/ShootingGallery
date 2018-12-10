@@ -8,5 +8,5 @@ alarm_set(1, 1);
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 65BCE34C
-/// @DnDArgument : "code" "score+=50;"
-score+=50;
+/// @DnDArgument : "code" "score+=100;"
+score+=100;
