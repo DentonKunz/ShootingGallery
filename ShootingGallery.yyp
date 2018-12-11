@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "0245e44c-ceec-49e5-8b44-70280f8c93fc",
+            "Value": {
+                "id": "7d8e36f4-a284-440a-a1de-ad6493de9d42",
+                "resourcePath": "rooms\\rm_end\\rm_end.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "0352cfe0-0c9a-438f-86f4-56cae1b966aa",
+            "Value": {
+                "id": "0c390723-3d74-4be9-be33-f61ecf898747",
+                "resourcePath": "objects\\obj_gameover\\obj_gameover.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "07d290c8-380d-4c42-ad6b-8c31f9f8212c",
             "Value": {
                 "id": "94cf0f51-593d-4d65-8edc-81d96e374fef",
@@ -127,6 +143,14 @@
             }
         },
         {
+            "Key": "59ef6efb-ad45-434b-a3cc-7fca859516f0",
+            "Value": {
+                "id": "f519211d-190a-42f7-998c-194608e8db72",
+                "resourcePath": "objects\\obj_duckhole\\obj_duckhole.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5a71f054-3336-4603-a676-53f8a8747ca9",
             "Value": {
                 "id": "7ffff74e-bdaf-47c6-9881-39d91beef6e4",
@@ -220,6 +244,14 @@
                 "id": "9738a9f2-5dff-4e73-ba0b-12005acfaa57",
                 "resourcePath": "rooms\\rm_main\\rm_main.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9f10208f-8cb4-46f5-8b62-bfbc3a0d08ea",
+            "Value": {
+                "id": "b070bdb6-f198-4677-acf9-a4eb40b212bf",
+                "resourcePath": "sprites\\spr_duckhole\\spr_duckhole.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

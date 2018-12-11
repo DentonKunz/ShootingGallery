@@ -16,7 +16,11 @@ for(var l64E52E63_2 = __dnd_lives; l64E52E63_2 > 0; --l64E52E63_2) {
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 3C0481B3
-/// @DnDArgument : "code" "draw_text_transformed(20,20,"Score: ",2,2,0);$(13_10)draw_text_transformed(150,20,score,2,2,0);$(13_10)score-=1;"
+/// @DnDArgument : "code" "draw_text_transformed(20,20,"Score: ",2,2,0);$(13_10)draw_text_transformed(150,20,score,2,2,0);$(13_10)score-=1;$(13_10)$(13_10)draw_text_transformed(270,20,"Time: ",2,2,0);$(13_10)draw_text_transformed(400,20,global.time,2,2,0);$(13_10)global.time-=1;"
 draw_text_transformed(20,20,"Score: ",2,2,0);
 draw_text_transformed(150,20,score,2,2,0);
 score-=1;
+
+draw_text_transformed(270,20,"Time: ",2,2,0);
+draw_text_transformed(400,20,global.time,2,2,0);
+global.time-=1;
