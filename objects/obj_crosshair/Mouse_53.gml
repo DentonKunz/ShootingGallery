@@ -1,8 +1,11 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 566FB912
-/// @DnDArgument : "code" "instance_create_layer(mouse_x,mouse_y,"Backgrounds_2",obj_duckhole);"
-instance_create_layer(mouse_x,mouse_y,"Backgrounds_2",obj_duckhole);
+/// @DnDHash : 48E92715
+/// @DnDArgument : "xpos_relative" "1"
+/// @DnDArgument : "ypos_relative" "1"
+/// @DnDArgument : "objectid" "obj_hole"
+/// @DnDSaveInfo : "objectid" "0faa179d-4cd4-4235-8414-d8413085fda2"
+instance_create_layer(x + 0, y + 0, "Instances", obj_hole);
 
 /// @DnDAction : YoYo Games.Instance Variables.Set_Lives
 /// @DnDVersion : 1

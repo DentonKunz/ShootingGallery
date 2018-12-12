@@ -10,3 +10,13 @@ alarm_set(1, 30);
 /// @DnDArgument : "code" "score+=50;$(13_10)duckDead = 0;"
 score+=50;
 duckDead = 0;
+
+/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 35BEACF6
+/// @DnDArgument : "xpos" "mouse_x"
+/// @DnDArgument : "ypos" "mouse_y"
+/// @DnDArgument : "objectid" "obj_duckhole"
+/// @DnDArgument : "layer" ""Backgrounds_2""
+/// @DnDSaveInfo : "objectid" "59ef6efb-ad45-434b-a3cc-7fca859516f0"
+instance_create_layer(mouse_x, mouse_y, "Backgrounds_2", obj_duckhole);
